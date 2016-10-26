@@ -16,7 +16,7 @@ php composer.phar require --prefer-dist desaikalpesh34/pay-u-money  "dev-master"
 or add
 
 ```
-"desaikalpesh34/pay-u-money":  "dev-master"
+"desaikalpesh34/pay-u-money":  "*"
 ```
 
 to the require section of your `composer.json` file.
