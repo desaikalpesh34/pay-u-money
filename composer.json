@@ -1,8 +1,8 @@
 {
-    "name": "desaikalpesh34/payUmoney",
+    "name": "desaikalpesh34/pay-u-money",
     "description": "An extension to integrate PayUMoney with yii2",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","pay","payment gateway","payumoney"],
+    "keywords": ["yii2","extension","pay","payment gateway","payumoney","pay-u-money"],
     "license": "Apache-2.0",
     "authors": [
         {
@@ -15,13 +15,13 @@
     },
     "autoload": {
         "psr-4": {
-            "desaikalpesh34\\payUmoney\\": ""
+            "desaikalpesh34\\pay-u-money\\": ""
         }
     },
     "repositories":[
     {
         "type": "git",
-        "url": "https://github.com/khuddus/yii2-payumoney.git"
+        "url": "https://github.com/desaikalpesh34/pay-u-money.git"
     }
 ]
 }
